@@ -94,7 +94,7 @@ output:
     doc: 反对分类的证据列表
 ```
 
-### Blueprint（处理蓝图）
+### Blueprint（数据蓝图）
 
 ```yaml
 name: sec-credit-agreement-classification

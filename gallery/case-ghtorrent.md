@@ -87,7 +87,7 @@ output:
     guarantee: determined by validated classifier, not heuristic rules
 ```
 
-### Blueprint（处理蓝图）
+### Blueprint（数据蓝图）
 
 ```yaml
 name: ghtorrent-user-activity

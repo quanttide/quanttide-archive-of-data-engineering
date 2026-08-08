@@ -106,7 +106,7 @@ output:
     doc: 抽取置信度（0-1）
 ```
 
-### Blueprint（处理蓝图）
+### Blueprint（数据蓝图）
 
 ```yaml
 name: cosmetics-inspection-report
